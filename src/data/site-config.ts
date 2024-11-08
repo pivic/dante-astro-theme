@@ -97,7 +97,7 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: 'Yo, bish.',
-        text: "Hey, ho, let's go.",
+        text: "Hey, ho, let's go!",
         image: {
             src: '/hero.jpeg',
             alt: 'A person sitting at a desk in front of a computer'
